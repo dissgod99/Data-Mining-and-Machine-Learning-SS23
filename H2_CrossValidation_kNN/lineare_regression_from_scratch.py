@@ -55,13 +55,3 @@ print(f"m == {m}\nb == {b}")
 print(f"y == {m:.2} * x + {b:.2f}")
 
 print(f"Test x == {X_test}: y_pred == {linear_regression(X_test, m=m, b=b)}")
-
-
-
-
-
-
-
-
-
-
