@@ -15,7 +15,7 @@ cd repository
 3. Install the project's dependencies using:
 pip install -r requirements.txt
 
-Now you're good to ho :)
+Now you're good to go :)
 
 
 
